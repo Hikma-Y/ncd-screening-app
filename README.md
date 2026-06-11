@@ -60,9 +60,9 @@ The project follows a standard Expo Router structure:
 * `assets/`: Images and other static assets.
 * `styles/`: Global styles and theme definitions.
 
-### Machine Learning Integration (Context)
+### Machine Learning Integration (Planned/Future Work)
 
-The repository also contains a `model_training-with-healthcare-symptom-disease-dataset/` directory. This suggests the project includes or aims to include a machine learning model (`symptoms_disease_classification_model.tflite`) trained on a healthcare dataset to predict diseases based on a wider range of symptoms.
+The current version focuses on validated questionnaire-based health screening using FINDRISC and symptom-based thyroid assessment logic. Future work may include integrating a machine learning model for broader symptom-based disease prediction.
 
 ## Getting Started
 
